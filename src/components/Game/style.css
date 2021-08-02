@@ -1,0 +1,36 @@
+.listButtons {
+    list-style: none;
+    margin: 5px;
+    text-align: center;
+}
+
+.buttons {
+    background-color: rgb(14, 15, 14);
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    border: none;
+    transition: all 0.9s;
+
+}
+
+.buttons:hover{
+    background-color: rgb(51, 50, 50);
+    border: solid 0.5px white;
+}
+.player {
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: center;
+    font-weight: 500;
+    background-color: rgb(20, 22, 22);
+    color: white;
+}
+
+.moves {
+    width: 200px;
+    margin: 20px auto;
+}
